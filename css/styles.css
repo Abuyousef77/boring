@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  background-image: url("../images/images.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h2.intro {
+  text: bolder;
+  background-color: white;
+}
+
+p.intro {
+  color: red;
+}
+
+img.intro {
+  background-color: blue;
+}
